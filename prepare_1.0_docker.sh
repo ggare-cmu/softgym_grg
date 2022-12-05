@@ -1,3 +1,5 @@
+export PATH=/home/grg/anaconda3/bin:$PATH
+
 . activate softgym
 export PYFLEXROOT=${PWD}/PyFlex
 export PYTHONPATH=${PYFLEXROOT}/bindings/build:$PYTHONPATH
